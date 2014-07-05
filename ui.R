@@ -38,7 +38,7 @@ shinyUI(navbarPage("eAT wHERE? SG",
                      
                      )),
                    tabPanel("About",
-                            h3("Dining Map SG is..."),
+                            h3("eAT wHERE? SG is..."),
                             HTML("<p>a one stop portal for finding out the open/close status of restaurants in Singapore.
                                  This site also provides a some quick facebook statistics as can be seen in
                                  the sidebar of the main page. All data are pulled at regular intervals from Facebook
